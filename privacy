@@ -1,0 +1,44 @@
+Privacy Policy for Muslim Knowledge
+
+Effective Date: November 26, 2025 Last Updated: November 26, 2025
+
+Introduction Welcome to Muslim Knowledge ("we," "our," or "the App"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our mobile application.
+
+Information We Collect
+
+2.1 Information You Provide
+
+Quiz Progress: Your quiz answers, scores, and completion status
+Bookmarks: Questions you've bookmarked for later review
+Statistics: Your quiz performance data and learning progress
+Preferences: Language settings (English/Arabic) and theme preferences (light/dark mode)
+2.2 Automatically Collected Information
+
+Usage Data: Which categories you access, quiz completion times
+Device Information: App version, operating system type
+How We Store Your Information All your data is stored locally on your device using:
+SharedPreferences (Android/iOS native storage)
+Local JSON files for quiz questions
+We do not collect, transmit, or store your data on external servers.
+
+How We Use Your Information We use your information solely to:
+Track your quiz progress and performance
+Display your statistics and achievement history
+Provide personalized quiz recommendations
+Remember your app preferences (language, theme)
+Improve your learning experience
+Data Sharing We do not share, sell, or transmit your data to third parties. All data remains on your device.
+
+Third-Party Services Currently, the App does not integrate with any third-party services. If this changes in the future, we will update this policy and notify you.
+
+Your Rights You have the right to:
+
+Access your data through the app's statistics and history screens
+Delete your data using the "Clear History" option in settings
+Data Security We implement security measures to protect your data:
+Data validation to prevent corruption
+Encrypted local storage (provided by Android/iOS)
+No network transmission of personal data
+Children's Privacy The App is suitable for users of all ages. We do not knowingly collect personal information from children under 13. All data is stored locally on the device with parental supervision assumed for underage users.
+
+Contact Us If you have questions about this Privacy Policy, please contact us at: esaa66@live.com
